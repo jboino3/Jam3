@@ -1,0 +1,15 @@
+﻿16:26:33.659 |I| Launcher                       | :1                             | Checking if build hasn't expired.
+16:26:33.678 |I| Launcher                       | :1                             | Starting RiderFlow frontend
+16:26:33.698 |V| JetBrains.Threading.ByteBufferAsyncProcessor.ServerSocket-UnityServer-Sender | :1                             | PAUSE ('Disconnected') :: state=Initialized
+16:26:33.704 |V| protocol.INIT                  | :1                             | Creating server socket on endpoint: 
+16:26:33.728 |V| protocol.INIT                  | :1                             | Server socket created, listening started on endpoint: 127.0.0.1:0
+16:26:33.731 |V| JetBrains.Rd.Impl.SocketWire+Server | :1                             | ServerSocket-UnityServer : started, port: 56036
+16:26:33.732 |V| JetBrains.Rd.Impl.SocketWire+Server | ServerSocket-UnityServer-Receiver:18 | ServerSocket-UnityServer : accepting, port: 56036
+16:26:40.171 |I| Launcher                       | :1                             | Creating Root ScriptableObject
+16:26:40.176 |V| JetBrains.RiderFlow.Core.Analytics.RiderFlowAnalytics | :1                             | Found 'analytics' in C:\Users\bharg\AppData\Roaming\RiderFlow. Trying to extract use guid...
+16:26:40.177 |V| JetBrains.RiderFlow.Core.Analytics.RiderFlowAnalytics | :1                             | Found uuid in 'analytics'.
+16:26:40.178 |I| Launcher                       | :1                             | Subscribing for events
+16:26:40.182 |I| Launcher                       | :1                             | Start running backend
+16:26:40.579 |I| JetBrains.RiderFlow.Core.Core.Caches.AssetPathCache.AssetPathService | :1                             | Started building search cache
+16:26:40.588 |I| JetBrains.RiderFlow.Core.Core.Caches.AssetPathCache.AssetPathService | :1                             | Finished building search cache
+16:26:42.671 |V| Launcher                       | :1                             | Ready!
