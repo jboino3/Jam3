@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   recentFilesPaths:
-  - Assets/Scenes/MainMenu.unity
-  - Assets/Scenes/SampleScene.unity
-  - Assets/Scripts.cs
-  - Assets/jam3(0.1).unity
-  - Assets/jam3(0.2).unity
-  - Assets/Scripts/TrainMovement.cs
   - Assets/Scripts/Trainchoice.cs
-  - Assets/Scripts/MenuPlay.cs
   - Assets/Park Assets/Prefab/Tree2.prefab
   - Assets/Scripts/Trainmove.cs
+  - Assets/Scenes/SampleScene.unity
+  - Assets/jam3(0.2).unity
+  - Assets/Scenes/MainMenu.unity
+  - Assets/Scripts/MenuPlay.cs
+  - Assets/Assets/forJam3Character.fbx
+  - Assets/Scenes/jam3(0.2).unity
+  - Assets/SimplePixelUI/SlimUI/Modern Menu 1/Scripts/Managers/UIMenuManager.cs
