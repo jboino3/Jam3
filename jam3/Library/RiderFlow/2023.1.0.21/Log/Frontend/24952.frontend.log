@@ -1,0 +1,18 @@
+﻿19:32:04.620 |I| Launcher                       | :1                             | Checking if build hasn't expired.
+19:32:04.634 |I| Launcher                       | :1                             | Starting RiderFlow frontend
+19:32:04.644 |V| JetBrains.Threading.ByteBufferAsyncProcessor.ServerSocket-UnityServer-Sender | :1                             | PAUSE ('Disconnected') :: state=Initialized
+19:32:04.755 |V| protocol.INIT                  | :1                             | Creating server socket on endpoint: 
+19:32:04.822 |V| protocol.INIT                  | :1                             | Server socket created, listening started on endpoint: 127.0.0.1:0
+19:32:04.825 |V| JetBrains.Rd.Impl.SocketWire+Server | :1                             | ServerSocket-UnityServer : started, port: 49219
+19:32:04.826 |V| JetBrains.Rd.Impl.SocketWire+Server | ServerSocket-UnityServer-Receiver:29 | ServerSocket-UnityServer : accepting, port: 49219
+19:32:35.238 |I| Launcher                       | :1                             | Creating Root ScriptableObject
+19:32:35.242 |V| JetBrains.RiderFlow.Core.Analytics.RiderFlowAnalytics | :1                             | Didn't find 'analytics' in C:\Users\KALAN\AppData\Roaming\RiderFlow. Creating new 'analytics' file.
+19:32:35.243 |V| JetBrains.RiderFlow.Core.Analytics.RiderFlowAnalytics | :1                             | Generated new uuid. Saved it to 'analytics' in C:\Users\KALAN\AppData\Roaming\RiderFlow.
+19:32:35.243 |I| Launcher                       | :1                             | Subscribing for events
+19:32:36.510 |I| Launcher                       | :1                             | Start running backend
+19:33:16.893 |I| JetBrains.RiderFlow.Core.Core.Caches.AssetPathCache.AssetPathService | :1                             | Started building search cache
+19:33:16.899 |I| JetBrains.RiderFlow.Core.Core.Caches.AssetPathCache.AssetPathService | :1                             | Finished building search cache
+19:33:17.431 |V| Launcher                       | :1                             | Ready!
+19:33:40.286 |V| JetBrains.Rd.Impl.SocketWire+Server | ServerSocket-UnityServer-Receiver:29 | ServerSocket-UnityServer : accepted
+19:33:40.286 |V| JetBrains.Rd.Impl.SocketWire+Server | ServerSocket-UnityServer-Receiver:29 | ServerSocket-UnityServer : connected
+19:33:40.288 |V| JetBrains.Threading.ByteBufferAsyncProcessor.ServerSocket-UnityServer-Sender | ServerSocket-UnityServer-Receiver:29 | RESUME :: state=AsyncProcessing
