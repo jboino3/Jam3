@@ -13,6 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   recentFilesPaths:
-  - Assets/SimplePixelUI/artwork/gray/square/9sprite_8bit_circle_outline 1.png
-  - Assets/SimplePixelUI/artwork/gray/square/9sprite_8bit_circle 2.png
-  - Assets/SimplePixelUI/artwork/gray/square/9sprite_8bit_circle_outline 2.png
+  - Assets/Scenes/MainMenu.unity
+  - Assets/Scenes/SampleScene.unity
+  - Assets/Scripts.cs
+  - Assets/jam3(0.1).unity
+  - Assets/jam3(0.2).unity
+  - Assets/Scripts/TrainMovement.cs
+  - Assets/Scripts/Trainchoice.cs
+  - Assets/Scripts/MenuPlay.cs
+  - Assets/Park Assets/Prefab/Tree2.prefab
+  - Assets/Scripts/Trainmove.cs
