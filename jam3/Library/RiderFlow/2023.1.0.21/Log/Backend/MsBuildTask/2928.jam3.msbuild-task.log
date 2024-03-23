@@ -1,0 +1,26 @@
+﻿21:21:03.289 |I| Core                           | RequestBuilder thread:8        | MsBuild process with Id = 692
+21:21:03.290 |I| Core                           | RequestBuilder thread:8        | MsBuild location = C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe
+21:21:03.290 |I| Core                           | RequestBuilder thread:8        | ServerGC = False
+21:21:03.290 |I| Core                           | RequestBuilder thread:8        | 
+21:21:03.290 |I| Core                           | RequestBuilder thread:8        | Start ControllerTask...
+21:21:03.291 |I| Core                           | RequestBuilder thread:8        | Detected version: 4.8
+21:21:03.293 |I| Core                           | RequestBuilder thread:8        | Creating SocketWire with port = 52500
+21:21:03.308 |I| Core                           | RequestBuilder thread:8        | Create protocol...
+21:21:03.373 |I| Core                           | RequestBuilder thread:8        | Create MsBuildModel and advise for new sessions...
+21:21:03.394 |I| Core                           | RequestBuilder thread:8        | Subscribe for changes...
+21:21:03.395 |I| Core                           | RequestBuilder thread:8        | Setup process watchdog...
+21:21:03.397 |I| Core                           | RequestBuilder thread:8        | Run dispatcher...
+21:21:03.399 |I| ProcessWatchdog                | WatchParentPid:2928:12         | Monitoring parent process PID:2928
+21:21:03.472 |I| Core                           | RequestBuilder thread:8        | Get protocol session 'RdProjectModelSession'
+21:21:03.477 |I| Core                           | RequestBuilder thread:8        | Msbuild session 'ProjectModelSessionHost' created
+21:21:03.540 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading 3 project(s) in 1 node(s)...
+21:21:03.540 |I| ProjectModel                   | RequestBuilder thread:8        | Reason: WarmStartup
+21:21:03.558 |I| Build                          | :7                             | Build started.
+21:21:03.566 |I| BuildQueue                     | RequestBuilder thread:8        | Build queue: True
+21:21:03.678 |I| Build                          | :4                             | Build succeeded.
+21:21:03.683 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading has finished, statistic: 
+	Total: 0.12 sec
+	Binding: 0.00 sec
+	Evaluation: 0.00 sec
+21:31:30.388 |I| Core                           | RequestBuilder thread:8        | Msbuild session 'ProjectModelSessionHost' was terminated
+21:31:30.388 |I| Core                           | RequestBuilder thread:8        | Connection lost, kill msbuild

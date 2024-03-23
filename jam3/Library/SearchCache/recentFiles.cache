@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   recentFilesPaths:
-  - Assets/Scripts/Trainmove.cs
   - Assets/Scenes/SampleScene.unity
   - Assets/jam3(0.2).unity
   - Assets/Assets/forJam3Character.fbx
   - Assets/SimplePixelUI/SlimUI/Modern Menu 1/Scripts/Managers/UIMenuManager.cs
   - Assets/Scripts/MenuPlay.cs
   - Assets/Scenes/jam3(0.2).unity
-  - Assets/Scenes/level 1.unity
   - Assets/jam3(0.1).unity
+  - Assets/Scenes/level 1.unity
+  - Assets/Scenes/InstructionsScreen.unity
   - Assets/Scenes/MainMenu.unity
