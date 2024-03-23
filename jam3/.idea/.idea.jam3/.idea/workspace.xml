@@ -6,215 +6,518 @@
   <component name="ChangeListManager">
     <list default="true" id="041bbdff-cd35-4745-85d2-d076a420321e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.jam3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.jam3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/building1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/building1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/building2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/building2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/building3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/building3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/building4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Materials/building4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building1.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building10.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building10.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building11.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building11.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building12.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building12.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building13.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building13.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building14.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building14.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building4.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building4.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building6.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building6.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building7.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building7.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building8.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building8.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building9.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Meshes/building9.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building10_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building10_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building10_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building10_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building11_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building11_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building11_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building11_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building12.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building12.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building12_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building12_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building12_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building12_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building13.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building13.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building13_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building13_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building13_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building13_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building14.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building14.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building14_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building14_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building14_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building14_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building1_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building1_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building1_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building1_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building2_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building2_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building2_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building2_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building3_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building3_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building3_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building3_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building4_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building4_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building4_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building4_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building5_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building5_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building5_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building5_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building6_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building6_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building6_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building6_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building7_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building7_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building7_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building7_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building8.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building8.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building8_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building8_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building8_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building8_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building9.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building9.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building9_Var1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building9_Var1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building9_Var2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Prefabs/building9_Var2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Textures/building1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/medium/Textures/building1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Materials/door.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Materials/door.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door1_4x3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door1_4x3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door1_4x5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door1_4x5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door2_4x3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door2_4x3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door2_4x5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door2_4x5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door3_4x3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door3_4x3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door3_4x5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door3_4x5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door4_4x3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door4_4x3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door4_4x5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Meshes/door4_4x5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door1_4x3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door1_4x3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door1_4x5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door1_4x5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door2_4x3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door2_4x3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door2_4x5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door2_4x5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door3_4x3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door3_4x3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door3_4x5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door3_4x5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door4_4x3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door4_4x3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door4_4x5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Prefabs/door4_4x5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Textures/door.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/doors/Textures/door.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Materials/windows.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Materials/windows.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window1_2x2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window1_2x2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window1_2x3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window1_2x3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window1_3x2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window1_3x2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window2_2x2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window2_2x2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window2_2x3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window2_2x3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window2_3x2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window2_3x2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window3_2x2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window3_2x2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window3_2x3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window3_2x3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window3_3x2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Meshes/window3_3x2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window1_2x2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window1_2x2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window1_2x3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window1_2x3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window1_3x2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window1_3x2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window2_2x2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window2_2x2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window2_2x3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window2_2x3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window2_3x2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window2_3x2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window3_2x2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window3_2x2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window3_2x3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window3_2x3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window3_3x2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Prefabs/window3_3x2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Textures/windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/buildings/props/windows/Textures/windows.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Materials/pavement1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Materials/pavement1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavement1-10.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavement1-10.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavement1-3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavement1-3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavement1-4.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavement1-4.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavement1-5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavement1-5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCorner(2)1-5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCorner(2)1-5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCorner(3)1-5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCorner(3)1-5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCorner1-10.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCorner1-10.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCorner1-5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCorner1-5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCornerCircle(3)1-10.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Mesh/pavementCornerCircle(3)1-10.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavement1-10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavement1-10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavement1-3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavement1-3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavement1-4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavement1-4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavement1-5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavement1-5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCorner(2)1-5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCorner(2)1-5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCorner(3)1-5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCorner(3)1-5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCorner1-10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCorner1-10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCorner1-5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCorner1-5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCornerCircle(3)1-10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Prefabs/pavementCornerCircle(3)1-10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Textures/pavement1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/pavements/Textures/pavement1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Materials/roads.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Materials/roads.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Materials/roadsBis.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Materials/roadsBis.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Textures/roads.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Textures/roads.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Textures/roadsBis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/Textures/roadsBis.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road1.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road3.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road3.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road3bis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road3bis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road4.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road4.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road5.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road5.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road6.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road6.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road6bis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road6bis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road6bisbis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road6bisbis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road7.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road7.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road7bis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road7bis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road7bisbis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Mesh/road7bisbis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road3bis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road3bis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road6bis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road6bis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road6bisbis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road6bisbis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road7bis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road7bis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road7bisbis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/medium/Prefabs/road7bisbis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road10.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road10.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road11.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road11.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road12.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road12.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road12bis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road12bis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road12bisbis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road12bisbis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road13.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road13.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road13bis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road13bis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road14.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road14.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road14bis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road14bis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road14bisbis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road14bisbis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road15.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road15.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road16.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road16.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road16bis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road16bis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road16bisbis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road16bisbis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road17.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road17.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road17bis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road17bis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road17bisbis.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Mesh/road17bisbis.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road12.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road12.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road12bis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road12bis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road12bisbis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road12bisbis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road13.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road13.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road13bis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road13bis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road14.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road14.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road14bis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road14bis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road14bisbis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road14bisbis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road15.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road15.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road16.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road16.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road16bis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road16bis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road16bisbis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road16bisbis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road17.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road17.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road17bis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road17bis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road17bisbis.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/Assets/roads/tall/Prefabs/road17bisbis.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/DemoScenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/DemoScenes/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/DemoScenes/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/DemoScenes/Grid.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CityVoxelPack/DemoScenes/Grid.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Materials/Grass.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Materials/Grass.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Materials/Low_Poly_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Materials/Low_Poly_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Materials/Low_Poly_Mat_Variant1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Materials/Low_Poly_Mat_Variant1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Bench.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Bench.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Bush.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Bush.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Cloud.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Cloud.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Flower Box.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Flower Box.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Flower_1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Flower_1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Flower_2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Flower_2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Gazebo.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Gazebo.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Grass_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Grass_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Hill_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Hill_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Lantern.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Lantern.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_Bank.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_Bank.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_Corner_Variant2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_Corner_Variant2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_EdgePiece2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_EdgePiece2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_Straight_Variant2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_Straight_Variant2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_TPart.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Stone_Path_TPart.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Tree1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Tree1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Tree2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Models/Tree2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Bench.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Bench.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Bush.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Bush.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Cloud.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Cloud.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Flower Box.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Flower Box.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Flower_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Flower_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Flower_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Flower_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Gazebo.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Gazebo.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Grass_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Grass_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Hill_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Hill_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Lantern.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Lantern.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_Bank.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_Bank.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_Corner.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_Corner.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_EdgePiece.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_EdgePiece.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_Straight.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_Straight.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_TPart.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Stone_Path_TPart.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Tree1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Tree1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Tree2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Prefab/Tree2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Scene/1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Scene/1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Texture/LowPolyTexture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Texture/LowPolyTexture.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Texture/LowPolyTexture_Variant1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Park Assets/Texture/LowPolyTexture_Variant1.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Data.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Data/ThemeSettings_ModernMenuUI.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Data/ThemeSettings_ModernMenuUI.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Editor/SlimUIWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Editor/SlimUIWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera/MainMenuCam.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera/MainMenuCam.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera/MenuCamIdle.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera/MenuCamIdle.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera/MenuCamPos1.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera/MenuCamPos1.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera/MenuCamPos2.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Camera/MenuCamPos2.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements/FlashingText.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements/FlashingText.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements/FlashingText.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements/FlashingText.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements/HighlightFade.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements/HighlightFade.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements/HighlightFade.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Elements/HighlightFade.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels/WindowPopUpBig.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels/WindowPopUpBig.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels/WindowPopUpBig.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels/WindowPopUpBig.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels/WindowPopUpSmall.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels/WindowPopUpSmall.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels/WindowPopUpSmall.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Animations/Panels/WindowPopUpSmall.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Clicks.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Clicks/SFX_Click_Mechanical.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Clicks/SFX_Click_Mechanical.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Clicks/SFX_Click_Punch.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Clicks/SFX_Click_Punch.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Clicks/SFX_Click_Whoosh.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Clicks/SFX_Click_Whoosh.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Mixer.mixer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Mixer.mixer.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Music.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Music/SFX_MusicSample.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Audio/Music/SFX_MusicSample.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/LATO-BOLD SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/LATO-BOLD SDF.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/LATO-LIGHT SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/LATO-LIGHT SDF.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/Poppins-Bold SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/Poppins-Bold SDF.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/Poppins-Light SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/Poppins-Light SDF.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-BOLD SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-BOLD SDF.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-LIGHT SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-LIGHT SDF.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-MEDIUM SDF.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Fonts/RUBIK-MEDIUM SDF.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Button Fram 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Button Fram 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Button Frame Hover 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Button Frame Hover 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Button Frame Press 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Button Frame Press 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Button Highlighted 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Button Highlighted 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Handle Outline 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Handle Outline 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Handle Solid 128px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Buttons/Handle Solid 128px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 1 64px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 1 64px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 2 64px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 2 64px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 3 64px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 3 64px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 4 64px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 4 64px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 5 64px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 5 64px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 6 64px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 6 64px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 7 64px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Cursors/Cursor 7 64px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Frames.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Frames/Panel 1920x1080px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Frames/Panel 1920x1080px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Frames/Panel Frame 512px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Frames/Panel Frame 512px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons/Arrow 128px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons/Arrow 128px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons/AssetLogo 128px.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons/AssetLogo 128px.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons/Gear 128px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons/Gear 128px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons/Return 128px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Icons/Return 128px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Corner Detail 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Corner Detail 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Detail 1 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Detail 1 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Detail 2 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Detail 2 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Detail 3 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Detail 3 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Detail 4 256px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/Detail 4 256px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/LoadingHighlight 512px.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Misc/LoadingHighlight 512px.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails/CleanMenu 256px.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails/CleanMenu 256px.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails/Cursor Controller Pro 256px.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails/Cursor Controller Pro 256px.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails/Essence Menu 256px.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails/Essence Menu 256px.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails/SciFi Menu 256px.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Graphics/Thumbnails/SciFi Menu 256px.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/ModernMenu_V1.3.1_Documentation.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/ModernMenu_V1.3.1_Documentation.pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/POST_ModernMenu.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/POST_ModernMenu.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs/Buttons.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs/Buttons/Btn_MainMenu.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs/Buttons/Btn_MainMenu.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs/Canvas Templates.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs/Canvas Templates/Canvas_DefaultMobileTemplate1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs/Canvas Templates/Canvas_DefaultMobileTemplate1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs/Canvas Templates/Canvas_DefaultTemplate1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Prefabs/Canvas Templates/Canvas_DefaultTemplate1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo1Scene2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo1Scene2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo1Scene2Settings.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo1Scene2Settings.lighting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo1Settings.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo1Settings.lighting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo2Mobile.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo2Mobile.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo2MobileSettings.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/Demos/Demo2MobileSettings.lighting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/README.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/README.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/READMESettings.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scenes/READMESettings.lighting.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Audio.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Audio/CheckMusicVolume.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Audio/CheckMusicVolume.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Audio/CheckSFXVolume.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Audio/CheckSFXVolume.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Managers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Managers/UIMenuManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Managers/UIMenuManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Managers/UISettingsManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Managers/UISettingsManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Misc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Misc/ExtraLinks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Misc/ExtraLinks.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Misc/ResetDemo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/Misc/ResetDemo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor/ThemedUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor/ThemedUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor/ThemedUIData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor/ThemedUIData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor/ThemedUIElement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SlimUI/Modern Menu 1/Scripts/ThemeEditor/ThemedUIElement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/jam3(0.2).unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/jam3(0.2).unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/jam3(0.2).unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/jam3(0.2).unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MenuPlay.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MenuPlay.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/jam3(0.1).unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/jam3(0.1).unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/jam3(0.1).unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/jam3(0.1).unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.payloads" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.payloads" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag_fsmtime" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag_fsmtime" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.ref.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/backend1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/backend1.traceevents" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/fullprofile.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.log.json" afterDir="false" />
@@ -228,22 +531,19 @@
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Search/transactions.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SearchCache/recentFiles.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SearchCache/recentFiles.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.InspectorWindow.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.InspectorWindow.pref" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ilpp.pid" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ilpp.pid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker2-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker3-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/JetBrains.Frontend.2021.2.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/JetBrains.Frontend.2021.2.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/JetBrains.Frontend.2022.2.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/JetBrains.Frontend.2022.2.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -346,6 +646,7 @@
       <workItem from="1710961300835" duration="3846000" />
       <workItem from="1711160160788" duration="1000" />
       <workItem from="1711160169700" duration="574000" />
+      <workItem from="1711161253905" duration="1766000" />
     </task>
     <servers />
   </component>

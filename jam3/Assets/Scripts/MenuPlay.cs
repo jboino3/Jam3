@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MenuPlay : MonoBehaviour
 {
@@ -11,16 +12,11 @@ public class MenuPlay : MonoBehaviour
         
     }
 
-    public GameObject menuCanvas; 
-    public GameObject mainCamera; 
+   
 
-    public void OnMouseDown()
+    public void PlayGame()
     {
-        // Disable the menu Canvas
-        menuCanvas.SetActive(false);
-        
-        
-        mainCamera.SetActive(true);
+        SceneManager.LoadSceneAsync(1);
     }
 
     // Update is called once per frame

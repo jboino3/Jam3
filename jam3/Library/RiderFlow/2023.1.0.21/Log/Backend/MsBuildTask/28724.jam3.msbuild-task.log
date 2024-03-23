@@ -1,0 +1,201 @@
+﻿20:36:36.524 |I| Core                           | RequestBuilder thread:7        | MsBuild process with Id = 47484
+20:36:36.525 |I| Core                           | RequestBuilder thread:7        | MsBuild location = C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe
+20:36:36.525 |I| Core                           | RequestBuilder thread:7        | ServerGC = False
+20:36:36.525 |I| Core                           | RequestBuilder thread:7        | 
+20:36:36.525 |I| Core                           | RequestBuilder thread:7        | Start ControllerTask...
+20:36:36.526 |I| Core                           | RequestBuilder thread:7        | Detected version: 16.11
+20:36:36.526 |I| Core                           | RequestBuilder thread:7        | Creating SocketWire with port = 56718
+20:36:36.540 |I| Core                           | RequestBuilder thread:7        | Create protocol...
+20:36:36.571 |I| Core                           | RequestBuilder thread:7        | Create MsBuildModel and advise for new sessions...
+20:36:36.593 |I| Core                           | RequestBuilder thread:7        | Subscribe for changes...
+20:36:36.594 |I| Core                           | RequestBuilder thread:7        | Setup process watchdog...
+20:36:36.595 |I| Core                           | RequestBuilder thread:7        | Run dispatcher...
+20:36:36.597 |I| ProcessWatchdog                | WatchParentPid:28724:11        | Monitoring parent process PID:28724
+20:36:36.645 |I| Core                           | RequestBuilder thread:7        | Get protocol session 'RdProjectModelSession'
+20:36:36.651 |I| Core                           | RequestBuilder thread:7        | Msbuild session 'ProjectModelSessionHost' created
+20:36:36.700 |I| ProjectModel                   | RequestBuilder thread:7        | Reloading 7 project(s) in 1 node(s)...
+20:36:36.701 |I| ProjectModel                   | RequestBuilder thread:7        | Reason: WarmStartup
+20:36:36.704 |I| Build                          | :6                             | Build started.
+20:36:36.707 |I| BuildQueue                     | RequestBuilder thread:7        | Build queue: False
+20:36:36.730 |I| ProjectModel                   | :15                            | Project 'Assembly-CSharp-Editor.csproj' has missing imports, load project without them
+20:36:36.731 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'Assembly-CSharp.csproj' has missing imports, load project without them
+20:36:36.731 |I| ProjectModel                   | :13                            | Project 'JetBrains.Frontend.2022.2.csproj' has missing imports, load project without them
+20:36:36.731 |I| ProjectModel                   | :14                            | Project 'Assembly-CSharp-Editor-firstpass.csproj' has missing imports, load project without them
+20:36:36.784 |I| ProjectModel                   | :13                            | Project 'JetBrains.Frontend.2020.2.csproj' has missing imports, load project without them
+20:36:36.785 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'JetBrains.Frontend.2019.4.csproj' has missing imports, load project without them
+20:36:36.785 |I| ProjectModel                   | :14                            | Project 'JetBrains.Frontend.2021.2.csproj' has missing imports, load project without them
+20:36:36.818 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'Assembly-CSharp.csproj' has load-time sensitive targets: XamlMarkupCompilePass1
+20:36:36.821 |I| BuildQueue                     | RequestBuilder thread:7        | Build immediately: Assembly-CSharp.csproj
+20:36:36.822 |I| Build                          | RequestBuilder thread:7        | Start build 'Assembly-CSharp.csproj' with 1 target frameworks
+20:36:36.824 |I| Build                          | RequestBuilder thread:7        | Targets for build: _CheckForInvalidConfigurationAndPlatform;CollectCentralPackageVersions;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;DesignTimeMarkupCompilation;Compile;XamlMarkupCompilePass1
+20:36:36.826 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'Assembly-CSharp-Editor-firstpass.csproj' has load-time sensitive targets: XamlMarkupCompilePass1
+20:36:36.826 |I| BuildQueue                     | RequestBuilder thread:7        | Build immediately: Assembly-CSharp-Editor-firstpass.csproj
+20:36:36.826 |I| Build                          | RequestBuilder thread:7        | Start build 'Assembly-CSharp-Editor-firstpass.csproj' with 1 target frameworks
+20:36:36.827 |I| Build                          | RequestBuilder thread:7        | Targets for build: _CheckForInvalidConfigurationAndPlatform;CollectCentralPackageVersions;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;DesignTimeMarkupCompilation;Compile;XamlMarkupCompilePass1
+20:36:36.827 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'JetBrains.Frontend.2022.2.csproj' has load-time sensitive targets: XamlMarkupCompilePass1
+20:36:36.827 |I| BuildQueue                     | RequestBuilder thread:7        | Build immediately: JetBrains.Frontend.2022.2.csproj
+20:36:36.827 |I| Build                          | RequestBuilder thread:7        | Start build 'JetBrains.Frontend.2022.2.csproj' with 1 target frameworks
+20:36:36.828 |I| Build                          | RequestBuilder thread:7        | Targets for build: _CheckForInvalidConfigurationAndPlatform;CollectCentralPackageVersions;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;DesignTimeMarkupCompilation;Compile;XamlMarkupCompilePass1
+20:36:36.829 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'Assembly-CSharp-Editor.csproj' has load-time sensitive targets: XamlMarkupCompilePass1
+20:36:36.829 |I| BuildQueue                     | RequestBuilder thread:7        | Build immediately: Assembly-CSharp-Editor.csproj
+20:36:36.829 |I| Build                          | RequestBuilder thread:7        | Start build 'Assembly-CSharp-Editor.csproj' with 1 target frameworks
+20:36:36.829 |I| Build                          | RequestBuilder thread:7        | Targets for build: _CheckForInvalidConfigurationAndPlatform;CollectCentralPackageVersions;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;DesignTimeMarkupCompilation;Compile;XamlMarkupCompilePass1
+20:36:36.829 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'JetBrains.Frontend.2021.2.csproj' has load-time sensitive targets: XamlMarkupCompilePass1
+20:36:36.829 |I| BuildQueue                     | RequestBuilder thread:7        | Build immediately: JetBrains.Frontend.2021.2.csproj
+20:36:36.829 |I| Build                          | RequestBuilder thread:7        | Start build 'JetBrains.Frontend.2021.2.csproj' with 1 target frameworks
+20:36:36.830 |I| Build                          | RequestBuilder thread:7        | Targets for build: _CheckForInvalidConfigurationAndPlatform;CollectCentralPackageVersions;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;DesignTimeMarkupCompilation;Compile;XamlMarkupCompilePass1
+20:36:36.830 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'JetBrains.Frontend.2020.2.csproj' has load-time sensitive targets: XamlMarkupCompilePass1
+20:36:36.830 |I| BuildQueue                     | RequestBuilder thread:7        | Build immediately: JetBrains.Frontend.2020.2.csproj
+20:36:36.830 |I| Build                          | RequestBuilder thread:7        | Start build 'JetBrains.Frontend.2020.2.csproj' with 1 target frameworks
+20:36:36.830 |I| Build                          | RequestBuilder thread:7        | Targets for build: _CheckForInvalidConfigurationAndPlatform;CollectCentralPackageVersions;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;DesignTimeMarkupCompilation;Compile;XamlMarkupCompilePass1
+20:36:36.830 |I| ProjectModel                   | RequestBuilder thread:7        | Project 'JetBrains.Frontend.2019.4.csproj' has load-time sensitive targets: XamlMarkupCompilePass1
+20:36:36.830 |I| BuildQueue                     | RequestBuilder thread:7        | Build immediately: JetBrains.Frontend.2019.4.csproj
+20:36:36.830 |I| Build                          | RequestBuilder thread:7        | Start build 'JetBrains.Frontend.2019.4.csproj' with 1 target frameworks
+20:36:36.830 |I| Build                          | RequestBuilder thread:7        | Targets for build: _CheckForInvalidConfigurationAndPlatform;CollectCentralPackageVersions;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;DesignTimeMarkupCompilation;Compile;XamlMarkupCompilePass1
+20:36:36.991 |E| Build                          | :15                            | Microsoft.Build.Exceptions.InvalidProjectFileException: The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.BackEnd.TargetBuilder.<ProcessTargetStack>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.TargetBuilder.<BuildTargets>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildProject>d__67.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildAndReport>d__58.MoveNext()
+20:36:36.996 |I| Build                          | :15                            | Finish build part [1/1] for project 'Assembly-CSharp.csproj': Failure
+	The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+20:36:36.996 |I| Build                          | :15                            | Finish build project 'Assembly-CSharp.csproj': Failure
+20:36:37.008 |E| Build                          | :3                             | Microsoft.Build.Exceptions.InvalidProjectFileException: The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.BackEnd.TargetBuilder.<ProcessTargetStack>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.TargetBuilder.<BuildTargets>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildProject>d__67.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildAndReport>d__58.MoveNext()
+20:36:37.008 |I| Build                          | :3                             | Finish build part [1/1] for project 'JetBrains.Frontend.2019.4.csproj': Failure
+	The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+20:36:37.008 |I| Build                          | :3                             | Finish build project 'JetBrains.Frontend.2019.4.csproj': Failure
+20:36:37.012 |E| Build                          | :21                            | Microsoft.Build.Exceptions.InvalidProjectFileException: The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.BackEnd.TargetBuilder.<ProcessTargetStack>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.TargetBuilder.<BuildTargets>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildProject>d__67.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildAndReport>d__58.MoveNext()
+20:36:37.012 |I| Build                          | :21                            | Finish build part [1/1] for project 'JetBrains.Frontend.2020.2.csproj': Failure
+	The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+20:36:37.012 |I| Build                          | :21                            | Finish build project 'JetBrains.Frontend.2020.2.csproj': Failure
+20:36:37.016 |E| Build                          | :4                             | Microsoft.Build.Exceptions.InvalidProjectFileException: The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.BackEnd.TargetBuilder.<ProcessTargetStack>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.TargetBuilder.<BuildTargets>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildProject>d__67.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildAndReport>d__58.MoveNext()
+20:36:37.016 |I| Build                          | :4                             | Finish build part [1/1] for project 'JetBrains.Frontend.2021.2.csproj': Failure
+	The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+20:36:37.016 |I| Build                          | :4                             | Finish build project 'JetBrains.Frontend.2021.2.csproj': Failure
+20:36:37.143 |E| Build                          | :21                            | Microsoft.Build.Exceptions.InvalidProjectFileException: The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.BackEnd.TargetBuilder.<ProcessTargetStack>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.TargetBuilder.<BuildTargets>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildProject>d__67.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildAndReport>d__58.MoveNext()
+20:36:37.143 |I| Build                          | :21                            | Finish build part [1/1] for project 'Assembly-CSharp-Editor.csproj': Failure
+	The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+20:36:37.143 |I| Build                          | :21                            | Finish build project 'Assembly-CSharp-Editor.csproj': Failure
+20:36:37.194 |E| Build                          | :23                            | Microsoft.Build.Exceptions.InvalidProjectFileException: The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.BackEnd.TargetBuilder.<ProcessTargetStack>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.TargetBuilder.<BuildTargets>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildProject>d__67.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildAndReport>d__58.MoveNext()
+20:36:37.195 |I| Build                          | :23                            | Finish build part [1/1] for project 'JetBrains.Frontend.2022.2.csproj': Failure
+	The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+20:36:37.195 |I| Build                          | :23                            | Finish build project 'JetBrains.Frontend.2022.2.csproj': Failure
+20:36:37.199 |E| Build                          | :21                            | Microsoft.Build.Exceptions.InvalidProjectFileException: The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+   at Microsoft.Build.Shared.ProjectErrorUtilities.ThrowInvalidProject(String errorSubCategoryResourceName, IElementLocation elementLocation, String resourceName, Object[] args)
+   at Microsoft.Build.BackEnd.TargetBuilder.<ProcessTargetStack>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.TargetBuilder.<BuildTargets>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildProject>d__67.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Build.BackEnd.RequestBuilder.<BuildAndReport>d__58.MoveNext()
+20:36:37.199 |I| Build                          | :21                            | Finish build part [1/1] for project 'Assembly-CSharp-Editor-firstpass.csproj': Failure
+	The target "CoreCompile" does not exist in the project.  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets
+20:36:37.199 |I| Build                          | :21                            | Finish build project 'Assembly-CSharp-Editor-firstpass.csproj': Failure
+20:36:37.557 |I| Build                          | :13                            | Build FAILED.
+20:36:37.558 |I| ProjectModel                   | RequestBuilder thread:7        | Reloading has finished, statistic: 
+	Total: 0.85 sec
+	Binding: 0.14 sec
+	Evaluation: 0.27 sec
+20:40:42.296 |I| Core                           | RequestBuilder thread:7        | Msbuild session 'ProjectModelSessionHost' was terminated
+20:40:42.297 |I| Core                           | RequestBuilder thread:7        | Connection lost, kill msbuild
